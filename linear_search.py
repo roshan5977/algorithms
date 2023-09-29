@@ -7,5 +7,5 @@ def search(item_arr,search_item):
       return i
   return -1
 
-# calling
+# calling search()
 print(search([3,5,2,7,9,5,5,8,1,8,4,9,2],1))
