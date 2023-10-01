@@ -1,4 +1,4 @@
-# bubble 
+# bubble sort
 
 def sort(arr_to_sort):
     for i in range(0,len(arr_to_sort)):
