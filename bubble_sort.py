@@ -1,5 +1,6 @@
 # bubble sort
 
+# Sort() method 
 def sort(arr_to_sort):
     for i in range(0,len(arr_to_sort)):
         for j in range(0,len(arr_to_sort)-i-1):
