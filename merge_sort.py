@@ -3,4 +3,5 @@ def sort():
     pass
 
 
-# calling 
+# calling sort
+sort()
