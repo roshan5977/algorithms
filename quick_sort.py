@@ -1,5 +1,5 @@
 
-# quick sort
+# quick sort arr
 
 def sort(arr):
     pass
