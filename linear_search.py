@@ -8,4 +8,4 @@ def search(item_arr,search_item):
   return -1
 
 
-print(search([3,5,2,7,9,5,5,8,1,8,4,9,2],1))
+print(search([3,5,2,7,9,5,5,8,1,8,4,7,9,2],1))
