@@ -1,4 +1,4 @@
-# merge sort..
+# merge sort...
 def sort(arr):
     pass
 
