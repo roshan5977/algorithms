@@ -1,6 +1,6 @@
 
 
-# linear search
+# linear search...
 def search(item_arr,search_item):
   for i in range(0,len(item_arr)):
     if item_arr[i]==search_item:
