@@ -1,4 +1,4 @@
-# bubble sort.
+# bubble sort..
 
 # Sort() method 
 def sort(arr_to_sort):
